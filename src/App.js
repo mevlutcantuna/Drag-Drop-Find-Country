@@ -9,7 +9,6 @@ const App = () => {
   const dragStart = (e) => {
     e.dataTransfer.setData("Text", e.target.id);
     console.log('start')
-    setData('')
   }
 
   const allowDrop = (e) => {
