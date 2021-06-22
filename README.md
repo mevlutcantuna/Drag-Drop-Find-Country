@@ -9,7 +9,6 @@
 
 ### Technologies
 - React
-- Redux
 - Hooks
 - TailwindCSS
 - Axios
