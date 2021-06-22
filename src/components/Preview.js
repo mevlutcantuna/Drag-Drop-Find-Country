@@ -30,7 +30,7 @@ const ShowData = ({ data, onDropOneWay, allowDrop }) => {
       onDragOver={allowDrop}
       className="w-2/3 h-full border-2 border-solid border-gray-400 text-white  p-4"
     >
-      {data === "" ? <div className='text-blue-400 text-4xl font-bold'> Please Drag one of religions...  </div> : <div>
+      {data === "" ? <div className='text-blue-400 text-4xl font-bold'> Please Drag one of regions...  </div> : <div>
       {isLoading && data !== "" ? (
         <div className='text-4xl text-black flex justify-center'>
           <img src='https://media4.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif' alt='loading'/>
