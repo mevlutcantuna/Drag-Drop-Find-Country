@@ -3,6 +3,8 @@
 ### Features
 - Drag religion to preview zone,getting data from ```https://restcountries.eu/ ```
 
+Demo : ``` https://dnd-find-country-mct.netlify.app/ ```
+
 ### Technologies
 - React
 - Redux
