@@ -1,5 +1,7 @@
 # Drag and Drop Find Countries
   
+I focused on learning drop and drag in this project when working with react.js
+  
 ### ``` https://dnd-find-country-mct.netlify.app/ ```
 
 ### Features
